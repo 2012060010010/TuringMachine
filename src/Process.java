@@ -2,7 +2,7 @@
  * Created by chengangbao on 2016/12/3.
  */
 public class Process {
-    static int beltBegin=10;
+    static int beltBegin=10;  //paperbelt has 10 empty at the begin
     /*
     * initPaperBelt
     * to init the paperbelt of turig machine
